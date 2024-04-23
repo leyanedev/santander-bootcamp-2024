@@ -33,6 +33,14 @@ Quais dias você quer aprender?
 Quanto tempo você deseja dedicar ao aprendizado por dia?
 Qual horário pretende iniciar?
 
+![img 2](https://github.com/leyanedev/santander-bootcamp-2024/assets/137809210/8a5f5610-daa1-4eeb-85c5-b41be626738d)
+
+Ao definir suas metas, você está dando um passo significativo para estabelecer um plano de estudo sólido. Este plano, traçado no início do programa, torna-se um aliado valioso no gerenciamento do tempo. Ele não só reflete seu compromisso pessoal com o sucesso no Bootcamp, mas também serve como um guia para sua jornada de aprendizado. Por isso, é crucial revisá-lo com frequência. Se, ao avaliar seu progresso, notar que suas metas iniciais não estão sendo cumpridas, considere fazer ajustes no seu cronograma. Isso assegurará que você continue no caminho certo rumo ao sucesso.
+
+## 4. Utilize Técnicas de Gerenciamento de Tempo
+
+Diversas técnicas de gerenciamento de tempo podem potencializar sua produtividade. A técnica Pomodoro, por exemplo, propõe trabalhar por 25 minutos seguidos e, em seguida, fazer uma pausa de 5 minutos (Figura 3). A cada quatro ciclos desses, é recomendada uma pausa mais extensa, de 15 a 30 minutos. Essa abordagem pode prevenir a sensação de esgotamento e manter sua concentração ao longo do dia.
+
   
 
 
