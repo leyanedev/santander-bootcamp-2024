@@ -143,11 +143,11 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tfoot></tfoot>
 </table>
 
-## Instrutora
+## Aluna
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
+      <img width="80px" align="center" src="https://github.com/leyanedev/santander-bootcamp-2024/assets/137809210/d117ab00-1f16-42b4-8d10-7c808351dc3f">
     </td>
     <td align="left">
       <a href="https://github.com/leyanedev">
