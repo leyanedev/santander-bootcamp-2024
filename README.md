@@ -41,20 +41,31 @@ Ao definir suas metas, você está dando um passo significativo para estabelecer
 
 Diversas técnicas de gerenciamento de tempo podem potencializar sua produtividade. A técnica Pomodoro, por exemplo, propõe trabalhar por 25 minutos seguidos e, em seguida, fazer uma pausa de 5 minutos (Figura 3). A cada quatro ciclos desses, é recomendada uma pausa mais extensa, de 15 a 30 minutos. Essa abordagem pode prevenir a sensação de esgotamento e manter sua concentração ao longo do dia.
 
+  ![img 3](https://github.com/leyanedev/santander-bootcamp-2024/assets/137809210/d6b28a42-309d-4d8f-8962-f768c5b0e3a0)
   
+Além da técnica Pomodoro, existem outras maneiras simples de gerenciar o tempo. Uma delas é a divisão do tempo em blocos, onde você agrupa tarefas parecidas e se concentra em uma categoria de cada vez. Isso pode ajudar a enfrentar os desafios de um bootcamp de forma mais eficaz.
+
+Outra técnica útil é criar listas de tarefas, onde você anota tudo o que precisa fazer e, em seguida, prioriza as tarefas mais importantes. Conforme conclui cada tarefa, você a marca como concluída. Essa abordagem ajuda a manter o foco e a organização em seus estudos no bootcamp.
+
+
+## 5. Evite o Multitarefa
+
+
+No contexto dos Botcamps, assim como em muitas outras situações, a multitarefa pode ser mais prejudicial do que benéfica. Concentre-se em uma atividade de cada vez para garantir a qualidade do que está fazendo e um aprendizado mais eficaz. Lembre-se de que tentar fazer muitas coisas simultaneamente pode atrasá-lo, tornando o tempo um adversário na conclusão do Bootcamp.
 
 
 
+## 6. Colabore e Peça Ajuda
 
 
-  
-  ## Contatos
- 
-<div> 
-  <a href="https://instagram.com/leyaneleite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/leyanedev_88000" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leyane.ti2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leyane-a-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
- BOM TER VOCÊS AQUI!!! 👋
+A colaboração é um pilar fundamental dos bootcamps. Diante de desafios, recorra aos seus colegas, navegue pelas questões no Fórum ou Rooms do programa e, se necessário, inicie seus próprios tópicos. Lembre-se de que a empatia e a cooperação estão entre as soft skills mais valorizadas para profissionais de tecnologia. Assim, não hesite em buscar ajuda - em breve, você poderá ser a pessoa oferecendo suporte a outro colega 😉
+
+## 7. Conclusão
+
+
+🎯Importante ressaltar que não há uma abordagem única de gerenciamento de tempo que funcione para todos. Cada indivíduo tem suas particularidades e, consequentemente, necessidades distintas quando se trata de organizar o tempo. Assim, esteja disposto a experimentar diferentes métodos e a adaptá-los conforme sua realidade.
+
+🎯Concluindo, convidamos você a enriquecer nossa discussão. Compartilhe nos comentários suas experiências e dicas sobre gerenciamento de tempo em Bootcamps. Ao compartilharmos nossas experiências, fortalecemos uma comunidade que prospera com insights valiosos, impulsionando a todos rumo ao sucesso!
+
+
+ Feliz demais com esse novo desafio!!!😉
