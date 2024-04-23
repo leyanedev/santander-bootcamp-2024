@@ -18,9 +18,21 @@ Está se preparando ou participando de um Bootcamp? Então você sabe como o tem
 🎯Urgente e Não Importante: Distrações que podem ser delegadas a outros.
 🎯Não Urgente e Não Importante: Tarefas que você pode considerar eliminar.
 
-![Texto alternativo]<img src="C:\Users\gesiel\Desktop\Santander-Bootcamp-2024\img 1.png"" min-width="400px" max-width="400px" width="400px" align="right">
+![img 1](https://github.com/leyanedev/santander-bootcamp-2024/assets/137809210/ba9fdb30-6306-41e5-b1c9-79fbd88b53a7)
 
-<div>
+Ao aplicar essa abordagem durante o seu período de estudo no Bootcamp, você não apenas otimizará seu gerenciamento de tempo, mas também permitirá uma participação mais efetiva nos fóruns do programa. Isso permitirá interações mais significativas e produtivas com outros participantes.
+
+## 3. Faça Um Cronograma
+
+
+Depois de ter uma ideia clara de suas prioridades, é fundamental elaborar um cronograma. Isso não apenas proporciona uma visão organizada do seu dia ou semana, mas também assegura que você esteja reservando tempo suficiente para cada atividade. Lembre-se de incluir tempo para descanso e relaxamento, pois isso é indispensável para a sua saúde mental e física.
+
+Se já estiver matriculado em uma jornada de aprendizado, não deixe de usar a funcionalidade "Meta de Estudo" disponível em nossa plataforma. Você a encontrará no canto superior direito da página principal do Bootcamp (Figura 2). Utilizar esta ferramenta pode ser determinante para alinhar suas metas ao tempo disponível, tornando seu processo de estudo mais focado e produtivo. Com ela, você defina aspectos essenciais como:
+
+Quais dias você quer aprender?
+Quanto tempo você deseja dedicar ao aprendizado por dia?
+Qual horário pretende iniciar?
+
   
 
 
