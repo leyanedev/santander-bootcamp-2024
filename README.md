@@ -1,4 +1,4 @@
-# santander-bootcamp-2024
+# Santander-Bootcamp-2024
 
 ## Gerenciamento de Tempo em Bootcamps: Dicas Para Ter Sucesso
 👀 Por: Venilton FalvoJr
