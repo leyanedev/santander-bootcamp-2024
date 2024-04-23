@@ -1,7 +1,8 @@
 # santander-bootcamp-2024
 
 ## Gerenciamento de Tempo em Bootcamps: Dicas Para Ter Sucesso
-👀 Venilton FalvoJr
+👀 Por: Venilton FalvoJr
+
 
 Está se preparando ou participando de um Bootcamp? Então você sabe como o tempo pode ser seu maior aliado ou seu pior inimigo. Gerenciar de forma eficaz cada momento precioso pode ser a diferença entre o sucesso e o sentimento de estar sempre correndo atrás. Neste artigo, compartilharemos estratégias práticas para otimizar sua organização diária e aumentar sua produtividade. Pronto para transformar sua preparação? Então bora!
 
