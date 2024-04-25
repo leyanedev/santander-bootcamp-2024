@@ -1,8 +1,17 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Santander-Bootcamp-2024 - FOCO EM JAVA</span>
+    <span> Santander-Bootcamp-2024 -JAVA</span>
 </h1>
+
+</h2>
+<a href="https://glysns.gitbook.io/java-basico">
+    <span> Java Básico</span>
+  
+## A Linguagem Java é composta por um conjunto bem definido de funcionalidades (features) que são super recomendadas para você entusiasta em programação conhecer o máximo que puder.
+
+## Abaixo iremos explorar algumas funcionalidades essenciais para nosso engajamento com a linguagem.
+
 ## Gerenciamento de Tempo em Bootcamps: Dicas Para Ter Sucesso
 👀 Por: Venilton FalvoJr
 
