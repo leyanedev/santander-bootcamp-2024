@@ -1,7 +1,8 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Santander-Bootcamp-2024 -JAVA</span>
+    <span> Santander-Bootcamp-2024 -JAVA</span> 
+    <a href="https://glysns.gitbook.io/java-basico">
 </h1>
 Gerenciamento de Tempo em Bootcamps: Dicas Para Ter Sucesso
 👀 Por: Venilton FalvoJr
