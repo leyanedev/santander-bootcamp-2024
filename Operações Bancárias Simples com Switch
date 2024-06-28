@@ -1,0 +1,167 @@
+import java.util.Scanner;
+
+public class SimulacaoBancaria {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        double saldo = 0.0;
+        int opcao;
+
+        do {
+/*         System.out.println("Menu:");
+           System.out.println("1 - Depositar");
+           System.out.println("2 - Sacar");
+           System.out.println("3 - Consultar Saldo");
+           System.out.println("0 - Encerrar");
+           System.out.print("Escolha uma opção: "); */
+            opcao = scanner.nextInt();
+
+            switch (opcao) {
+                case 1:
+                    //System.out.print("Digite o valor a ser depositado: ");
+                    double deposito = scanner.nextDouble();
+                    saldo += deposito;
+                    System.out.printf("Saldo atual: %.1f%n", saldo);
+                    break;
+                case 2:
+                   // System.out.print("Digite o valor a ser sacado: ");
+                    double saque = scanner.nextDouble();
+                    if (saldo >= saque) {
+                        saldo -= saque;
+                        System.out.printf("Saldo atual: %.1f%n", saldo);
+                    } else {
+                        System.out.println("Saldo insuficiente.");
+                    }
+                    break;
+                case 3:
+                    System.out.printf("Saldo atual: %.1f%n", saldo);
+                    break;
+                case 0:
+                    System.out.println("Programa encerrado.");
+                    break;
+                default:
+                    System.out.println("Opção inválida.");
+                    break;
+            }
+        } while (opcao != 0);
+
+        scanner.close();
+    }
+}
+
+import java.util.Scanner;
+
+public class ValidacaoContaBancaria {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        //System.out.print("Digite o número da conta bancária: ");
+        String numeroConta = scanner.nextLine();
+
+        try {
+            verificarNumeroConta(numeroConta);
+            System.out.println("Numero de conta valido.");
+        } catch (IllegalArgumentException e) {
+            System.out.println(e.getMessage());
+        }
+
+        scanner.close();
+    }
+
+    public static void verificarNumeroConta(String numeroConta) {
+        if (numeroConta.length() != 8 || !numeroConta.matches("\\d{8}")) {
+            throw new IllegalArgumentException("Erro: Numero de conta invalido. Digite exatamente 8 digitos.");
+        }
+    }
+}
+
+import java.util.Scanner;
+
+public class VerificadorElegibilidade {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        //System.out.println("Digite sua idade:");
+        int idade = scanner.nextInt();
+        
+        if (idade >= 18) {
+            System.out.println("Voce esta elegivel para criar uma conta bancaria.");
+        } else {
+            System.out.println("Voce nao esta elegivel para criar uma conta bancaria.");
+        }
+        
+        scanner.close();
+    }
+}
+import java.util.Scanner;
+
+public class VerificadorChequeEspecial {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        final double LIMITE_CHEQUE_ESPECIAL = 500.0;
+        
+        // Solicita o saldo atual da conta bancária
+        //System.out.println("Informe o saldo atual da conta bancária:");
+        double saldoAtual = scanner.nextDouble();
+        
+        // Solicita o valor do saque
+       // System.out.println("Informe o valor do saque:");
+        double valorSaque = scanner.nextDouble();
+        
+        // Verifica se o saque pode ser realizado sem ultrapassar o saldo
+        if (valorSaque <= saldoAtual) {
+            System.out.println("Transacao realizada com sucesso.");
+        } else {
+            // Calcula o saldo restante após o saque considerando o cheque especial
+            double saldoRestante = saldoAtual - valorSaque;
+            
+            // Verifica se o saque ultrapassa o limite do cheque especial
+            if (saldoRestante < -LIMITE_CHEQUE_ESPECIAL) {
+                System.out.println("Transacao nao realizada. Limite do cheque especial excedido.");
+            } else {
+                System.out.println("Transacao realizada com sucesso utilizando o cheque especial.");
+            }
+        }
+        
+        scanner.close();
+    }
+}
+import java.util.Scanner;
+
+public class LimiteDiarioSaques {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        // Solicita o limite diário de saque
+        //System.out.println("Informe o limite diário de saque:");
+        double limiteDiario = scanner.nextDouble();
+        
+        // Inicializa a variável para armazenar o valor total sacado
+        double totalSacado = 0.0;
+        
+        // Loop para permitir múltiplos saques até que o limite seja atingido
+        for (int i = 0; ; i++) {
+            // Solicita o valor do saque
+            //System.out.println("Informe o valor do saque (ou 0 para encerrar):");
+            double valorSaque = scanner.nextDouble();
+            
+            // Verifica se o valor do saque é zero, indicando que o cliente deseja encerrar
+            if (valorSaque == 0) {
+                System.out.println("Transacoes encerradas.");
+                break;
+            }
+            
+            // Verifica se o valor do saque ultrapassa o limite diário restante
+            if (totalSacado + valorSaque > limiteDiario) {
+                System.out.println("Limite diario de saque atingido. Transacoes encerradas.");
+                break;
+            } else {
+                // Realiza o saque e atualiza o total sacado
+                totalSacado += valorSaque;
+                System.out.printf("Saque realizado. Limite restante: %.1f\n", limiteDiario - totalSacado);
+            }
+        }
+        
+        scanner.close();
+    }
+}
